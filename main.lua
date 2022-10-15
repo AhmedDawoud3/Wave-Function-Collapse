@@ -1,4 +1,4 @@
-require "lib.Utils"
+require "Utils"
 Tile = require "Tile"
 
 WIDTH, HEIGHT = 800, 800
